@@ -32,8 +32,6 @@ The code is written in Python, so please make sure that you have the latest vers
 **3. Default Analysis**
 ![image](https://github.com/nikhilsukhdev/Loan-Default-Analysis/assets/46552468/7783ed6e-0cac-499e-9a45-73110492b4dc)
 
-**4. FAQs**
-![image](https://github.com/nikhilsukhdev/Loan-Default-Analysis/assets/46552468/9d2e0426-6c0b-4a04-a1ac-27ae5cb6dc1c)
 
 #### Reach out on: 
 
